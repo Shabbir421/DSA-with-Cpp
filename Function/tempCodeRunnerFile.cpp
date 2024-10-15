@@ -1,0 +1,2 @@
+  int a;
+  cout<<"Enter
